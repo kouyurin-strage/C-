@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\kou17\source\repos\First_Project\main.c(59,9): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'double' です
+C:\Users\kou17\source\repos\First_Project\main.c(94,9): warning C4477: 'printf' : 書式文字列 '%f' には、型 'double' の引数が必要ですが、可変個引数 1 は型 'int' です
+  First_Project.vcxproj -> C:\Users\kou17\source\repos\First_Project\Debug\First_Project.exe
